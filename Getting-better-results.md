@@ -81,6 +81,3 @@ If you paste the transcript, I'll:
 - Pull out 5–7 concise takeaways in a readable, story-like bullet list.
 - Add a 2–3 line actionable summary the reader can use immediately.
 
-----
-
-If you'd like, I can now: replace this file's introductory examples with Hindi/English mixed examples, shorten any section further, or process the video transcript if you paste it here. What should I do next?
