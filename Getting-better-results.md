@@ -1,6 +1,6 @@
 # Common challenges — quick fixes that actually work
 
-Working with Claude is like working with a helpful colleague: most of the time it’s smooth, and sometimes you need to nudge it. Below are the five things people run into first — each with a short, human fix you can try immediately.
+Working with Claude is like working with a helpful colleague: most of the time it’s smooth, and sometimes you need to nudge it. Below are the five things people run into first — each with a short, fix you can try immediately.
 
 1) Response feels generic
 - What's happening: Claude doesn't have enough specifics about your situation.
